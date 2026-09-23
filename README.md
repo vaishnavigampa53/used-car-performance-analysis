@@ -1,1 +1,2 @@
 # used-car-performance-analysis
+This project performs exploratory data analysis on a used-car dataset using Python, Pandas, NumPy, Matplotlib, and Seaborn. The analysis focuses on vehicle brands, models, manufacturing year, mileage, fuel efficiency, horsepower, torque, and engine capacity. Various visualizations and correlation analysis are used to identify patterns and relationships within the dataset.
